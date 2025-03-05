@@ -1,0 +1,3 @@
+O que é análise e projetos de sistemas?
+
+A análise e projetos de sistemas compreende o planejamento e desenvolvimento de sistemas de informação para solução de problemas de negócios. Nesse sentido, o analista de sistemas avalia qual é a demanda da organização e, a partir de requisitos pré-estabelecidos, desenvolve uma solução customizada para a empresa.

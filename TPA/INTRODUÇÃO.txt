@@ -1,0 +1,10 @@
+TÉCNICAS DE PROGRAMAÇÃO DE ALGORITMOS - TPA
+
+1-)Ferramentas:
+
+* Portugol Studio - Desenvolver algoritmos
+Link: https://github.com/UNIVALI-LITE/Portugol-Studio/releases/download/v2.7.5/portugol-studio-2.7.5-windows.exe
+
+* Microsoft Visio - Desenvolver fluxogmaa
+
+* Visual Studio, Visual Studio Code, PyCharm Community - Linguagem de programação python

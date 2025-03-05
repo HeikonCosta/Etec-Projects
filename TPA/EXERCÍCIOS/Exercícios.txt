@@ -1,0 +1,4 @@
+Exercícios
+1-) Desenvolver um algoritmo que realize a diferença entre dois números quaisquer definidos pelo usuário e ao final apresente o resultado na tela.
+2-) Escreva um algoritmo em portugol para calcular e exibir a idade de uma pessoa
+3-) Escreva um algoritmo em portugol para calcular e exibir o dobro de um número
